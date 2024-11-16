@@ -1,0 +1,45 @@
+version: '3.8'
+
+services:
+    php-fpm:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        volumes:
+            - ./app:/var/www/html/app
+            - ./public:/var/www/html/public
+            - ./system:/var/www/html/system
+            - ./writable:/var/www/html/writable
+        networks:
+            - ci-network
+
+    nginx:
+        image: nginx:latest
+        volumes:
+            - ./public:/var/www/html/public
+            - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+        ports:
+            - '8080:80'
+        networks:
+            - ci-network
+
+    mysql:
+        image: mysql:latest
+        restart: always
+        environment:
+            MYSQL_ROOT_PASSWORD: 1028
+            MYSQL_DATABASE: portfolio
+            MYSQL_USER: root
+            MYSQL_PASSWORD: 1028
+        ports:
+            - '3306:3306'
+        volumes:
+            - mysql_data:/var/lib/mysql
+        networks:
+            - ci-network
+
+networks:
+    ci-network:
+
+volumes:
+    mysql_data:
