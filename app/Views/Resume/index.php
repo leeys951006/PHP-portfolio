@@ -102,8 +102,132 @@
                 <p class="mb-0 mt-4">컴퓨터공학과</p>
             </div>
           </div>
+          <div>
+            <div class="d-flex justify-content-between">
+                <div class="d-flex flex-column">
+                    <p class="mb-0 mt-3 text-secondary">2024.03 - 2024.10</p>
+                    <h3 class="fw-bold">그린컴퓨터아트학원</h3>
+                </div>
+                <p class="mb-0 mt-4">KDT 지역인재 양성을 위한 laaS기반 웹 서비스 개발자 과정 2기</p>
+            </div>
+          </div>
         </div>
     </div>
+
+    <div class="Career_con w-100">
+        <h1 class="mt-5 text-warning">Career</h1>
+        <div class="border-bottom border-secondary border-opacity-50 pb-4 mt-3" style="border-top: 4px solid black;">
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4">(주)고려인텍</h3>
+                <p class="mb-0 mt-4">2022.09 - 2024.02</p>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4">HLB 헬스케어</h3>
+                <p class="mb-0 mt-4">2022.01 - 2022.04</p>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4">지오매틱스</h3>
+                <p class="mb-0 mt-4">2021.07 - 2021.12</p>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4">킵스바이오</h3>
+                <p class="mb-0 mt-4">2020.03 - 2021.04</p>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4">대전오월드</h3>
+                <p class="mb-0 mt-4">2019.09 - 2020.02</p>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4">삼성물산대전사무소</h3>
+                <p class="mb-0 mt-4">2018.10 - 2019.02</p>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between">  
+                <h3 class="fw-bold mt-4">한국정보통신진흥협회</h3>
+                <p class="mb-0 mt-4">2018.03 - 2018.08</p>
+            </div>
+          </div>
+        </div>
+    </div>
+
+    <!-- Tools -->
+    <div class="Tools_con w-100">
+        <h1 class="mt-5 text-warning">Tools</h1>
+        <div class="border-bottom border-secondary border-opacity-50 pb-4 mt-3" style="border-top: 4px solid black;">
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4 ms-5">Language</h3>
+                <div class="d-flex flex-column mt-3 w-25">
+                  <p class="mb-0 mx-5">HTML</p>
+                  <p class="mb-0 mx-5">CSS</p>
+                  <p class="mb-0 mx-5">JavaScript</p>
+                  <p class="mb-0 mx-5">TypeScript</p>
+                  <p class="mb-0 mx-5">PHP</p>
+                </div>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4 ms-5">Frontend</h3>
+                <div class="d-flex flex-column mt-3 w-25">
+                  <p class="mb-0 mx-5">React</p>
+                  <p class="mb-0 mx-5">Next.js</p>
+                  <p class="mb-0 mx-5">Codeigniter</p>
+                </div>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4 ms-5">Backend</h3>
+                <div class="d-flex flex-column mt-3 w-25">
+                  <p class="mb-0 mx-5">Nest.js</p>
+                  <p class="mb-0 mx-5">Codeigniter</p>
+                </div>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4 ms-5">DB</h3>
+                <div class="d-flex flex-column mt-3 w-25">
+                  <p class="mb-0 mx-5">MySQL</p>
+                  <p class="mb-0 mx-5">SQLite</p>
+                </div>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
+                <h3 class="fw-bold mt-4 ms-5">Communication</h3>
+                <div class="d-flex flex-column mt-3 w-25">
+                  <p class="mb-0 mx-5">GitHub</p>
+                  <p class="mb-0 mx-5">Notion</p>
+                  <p class="mb-0 mx-5">Slack</p>
+                </div>
+            </div>
+          </div>
+          <div>
+            <div class="d-flex justify-content-between pb-2">  
+                <h3 class="fw-bold mt-4 ms-5">Design</h3>
+                <div class="d-flex flex-column mt-3 w-25">
+                  <p class="mb-0 mx-5">Figma</p>
+                </div>
+            </div>
+          </div>
+         
+        </div>
+    </div>
+   
 
   </div>
 

@@ -17,7 +17,7 @@
                 <a class="nav-link text-dark fw-bold mx-5" href="/Resume">Resume</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-dark fw-bold mx-5" href="/Portfolio">Portfolio</a>
+                <a class="nav-link text-dark fw-bold mx-5" href="/Project">Project</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link text-dark fw-bold mx-5" href="/SignUp">Sign Up</a>
