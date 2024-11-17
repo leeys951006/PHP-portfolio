@@ -11,7 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
   <body>
-  <div class="container d-flex flex-column align-items-start mt-5" style="height: auto; width: 750px;">
+  <div class="container d-flex flex-column align-items-start mt-5 mb-5" style="height: auto; width: 750px;">
     <div class="Resumecon d-flex border-bottom border-secondary border-opacity-25 pb-4 w-100 justify-content-center align-items-center">
       <img src="..\img\증명사진.jpg" alt="증명사진" class="img-fluid mb-1" style="width: 200px; height: auto; border-radius: 30%;">
       <div class="produce_con ms-5" style="width: 20vw;">
