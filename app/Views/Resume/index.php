@@ -174,6 +174,7 @@
                   <p class="mb-0 mx-5">CSS</p>
                   <p class="mb-0 mx-5">JavaScript</p>
                   <p class="mb-0 mx-5">TypeScript</p>
+                  <p class="mb-0 mx-5">Python</p>
                   <p class="mb-0 mx-5">PHP</p>
                 </div>
             </div>
@@ -192,7 +193,7 @@
             <div class="d-flex justify-content-between border-bottom border-secondary border-opacity-25 pb-2">  
                 <h3 class="fw-bold mt-4 ms-5">Backend</h3>
                 <div class="d-flex flex-column mt-3 w-25">
-                  <p class="mb-0 mx-5">Nest.js</p>
+                  <p class="mb-0 mx-5">FastAPI</p>
                   <p class="mb-0 mx-5">Codeigniter</p>
                 </div>
             </div>

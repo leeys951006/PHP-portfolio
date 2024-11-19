@@ -37,6 +37,7 @@ dh<?= $this->extend('layouts/main') ?>
     <li class="li-cont">설정한 성별,나이에 따라 영양제 기준 셋팅이 변경되게 하였습니다.</li>
     <li class="li-cont">현재 복용중인 영양제 용량을 입력하면 부족 또는 과섭취 부분을 한눈에 보기쉽도록 바 형식으로 나타내었습니다.</li>
     <li class="li-cont">영양분 정보 탭을 만들어서 영양분에 대한 정보를 알기 쉽도록 만들었습니다.</li>
+    <li class="li-cont">언어 설정 기능을 추가하였습니다.</li>
 
     <h1 class="h-Tag fw-bold mt-4">작업이미지 갤러리</h1>
 
@@ -49,58 +50,37 @@ dh<?= $this->extend('layouts/main') ?>
             <img src="..\img\Drug\영양제 설계1.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 디자인설계2.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 설계2.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 디자인설계3.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 설계3.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 모바일 설계1.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 언어 설정.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 모바일 설계2.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 언어 설정1.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 문제해결.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 언어 설정 2.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 프로젝트 구성1.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 언어 설정 3.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 프로젝트 구성2.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 추가.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT 프로젝트 구성3.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 추가 2.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT login.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 추가 3.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT login2.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제 프로필.png" class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
-            <img src="..\img\Drug\PlanT login3.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="..\img\Drug\PlanT login4.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="..\img\Drug\PlanT main.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="..\img\Drug\PlanT main2.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="..\img\Drug\PlanT main3.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="..\img\Drug\PlanT main4.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="..\img\Drug\PlanT MySQL1.png" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="..\img\Drug\PlanT MySQL2.png" class="d-block w-100" alt="...">
+            <img src="..\img\Drug\영양제.png" class="d-block w-100" alt="...">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControlsNoTouching" data-bs-slide="prev">

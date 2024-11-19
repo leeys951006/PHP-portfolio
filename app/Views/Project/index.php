@@ -183,7 +183,6 @@
               <span class="badge rounded-pill text-bg-warning">Python</span>
               <br>
               <span class="badge rounded-pill text-bg-info">Next.js</span>
-              <span class="badge rounded-pill text-bg-info">Nest.js</span>
               <span class="badge rounded-pill text-bg-info">Fast API</span>
               <span class="badge rounded-pill text-bg-info">SQLite</span>
             </div>
