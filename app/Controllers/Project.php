@@ -44,11 +44,6 @@ class Project extends BaseController
         return view('Project/Next');
     }
 
-    public function Codeigniter(): string
-    {
-        return view('Project/Codeigniter');
-    }
-
     public function Drug(): string
     {
         return view('Project/Drug');

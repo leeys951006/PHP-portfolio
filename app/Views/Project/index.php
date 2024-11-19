@@ -68,26 +68,6 @@
           </div>
         </div>
       </div>
-      <div class="col" data-category="solo" data-url="/Project/Codeigniter">
-        <div class="card h-100">
-          <img src="..." class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Codeigniter 게시판</h5>
-            <a href="http://" class="text-decoration-none">GitHub</a>
-            <a href="http://" class="text-decoration-none">Notion</a>
-            <div class="mt-2">
-              <span class="badge rounded-pill text-bg-warning">PHP</span>
-              <span class="badge rounded-pill text-bg-warning">Bootstrap</span>
-              <br>
-              <span class="badge rounded-pill text-bg-info">Codeigniter</span>
-              <span class="badge rounded-pill text-bg-info">MySQL</span>
-            </div>
-          </div>
-          <div class="card-footer">
-            <small class="text-body-secondary">Last updated 3 mins ago</small>
-          </div>
-        </div>
-      </div>
       <div class="col" data-category="solo" data-url="/Project/PlanT">
         <div class="card h-100">
           <img src="..\img\PlanT main.png" class="card-img-top" alt="...">
