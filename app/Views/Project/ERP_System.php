@@ -16,8 +16,8 @@ dh<?= $this->extend('layouts/main') ?>
     <p>24.07.15 - 24.08.14</p>
     <img src="..\img\ERP_main.png" class="img-fluid" alt="...">
     <div class="d-flex mt-2">
-      <a href="http://" class="text-decoration-none">GitHub</a>
-      <a href="http://" class="text-decoration-none ms-2">Notion</a>
+      <a href="https://github.com/leeys951006/KDT-IaaS-2-ProjectA-1team.git" class="text-decoration-none">GitHub</a>
+      <a href="https://kongukjae.notion.site/031dbe5061414b209e756b27124b3abf?pvs=4" class="text-decoration-none ms-2">Notion</a>
     </div>
     <br>
     <h1 class="h-Tag fw-bold">SKILLS</h1>

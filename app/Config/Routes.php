@@ -20,5 +20,5 @@ $routes->get('Project/Poketmon', 'Project::Poketmon');
 $routes->get('Project/Stress', 'Project::Stress');
 
 // 회원 가입 
-$routes->get('register', 'Members::register');
-$routes->get('register', 'Members::processRegister');
+// $routes->get('register', 'Members::register');
+// $routes->post('register', 'Members::processRegister');

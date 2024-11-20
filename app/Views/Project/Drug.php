@@ -16,8 +16,8 @@ dh<?= $this->extend('layouts/main') ?>
     <p>24.07.15 - 24.08.28</p>
     <img src="..\img\영양제.png" class="img-fluid" alt="...">
     <div class="d-flex mt-2">
-      <a href="http://" class="text-decoration-none">GitHub</a>
-      <a href="http://" class="text-decoration-none ms-2">Notion</a>
+      <a href="https://github.com/leeys951006/Tonic.git" class="text-decoration-none">GitHub</a>
+      <a href="https://nifty-mountain-1e6.notion.site/f11ef4686e184f92a7c75d82cd3b35e6?pvs=4" class="text-decoration-none ms-2">Notion</a>
     </div>
     <br>
     <h1 class="h-Tag fw-bold">SKILLS</h1>

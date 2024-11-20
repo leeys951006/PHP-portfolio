@@ -16,8 +16,8 @@ dh<?= $this->extend('layouts/main') ?>
     <p>24.05.24 - 24.07.07</p>
     <img src="..\img\스트레스 blog.png" class="img-fluid" alt="...">
     <div class="d-flex mt-2">
-      <a href="http://" class="text-decoration-none">GitHub</a>
-      <a href="http://" class="text-decoration-none ms-2">Notion</a>
+      <a href="https://github.com/leeys951006/blognew.git" class="text-decoration-none">GitHub</a>
+      <a href="https://nifty-mountain-1e6.notion.site/blog-24-05-24-24-07-07-192fa48e9c8c4b639f3b85e51022c73a?pvs=4" class="text-decoration-none ms-2">Notion</a>
     </div>
     <br>
     <h1 class="h-Tag fw-bold">SKILLS</h1>

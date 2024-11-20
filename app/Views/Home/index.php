@@ -21,22 +21,24 @@
         <br>
         <p>PHP,JavaScript,TypeScript 등 여러언어를 경험하고 연구하며</p>
         <p>실력 향상을 위해 꾸준히 노력하고 있습니다.</p>
-        <br>
-        <p class="fw-bold">DB 활용 경험을 알리고자 로그인 시스템을 구현하였습니다.</p>
-        <p class="fw-bold">재미로 테스트 해주시면 감사하겠습니다.</p>
       </div>
       <br>
       <div>
       <div>
         <a href="/Resume" class="btn btn-outline-dark mx-1">Resume</a>
-        <a href="/Portfolio" class="btn btn-outline-dark mx-1">Portfolio</a>
+        <a href="/Project" class="btn btn-outline-dark mx-1">Project</a>
     </div>
 
       </div>
       <br>
       <div>
+      <a href="https://github.com/leeys951006" target="_blank" rel="noopener noreferrer" class="btn btn-light btn-hover">
         <img src="..\img\github.png" alt="github" class="img-fluid mx-1" style="width: 30px; height: auto;">
-        <img src="..\img\notion.png" alt="github" class="img-fluid mx-1" style="width: 30px; height: auto;">
+      </a>
+      <a href="https://nifty-mountain-1e6.notion.site/6082bd6c7d394c01a33ca3c9395cd3b1?v=7bdd17d9378f42e2bffce1b200cfc53a&pvs=4" target="_blank" rel="noopener noreferrer" class="btn btn-light btn-hover">
+          <img src="..\img\notion.png" alt="notion" class="img-fluid mx-1" style="width: 30px; height: auto;">
+      </a>
+
       </div>
     </div>
     

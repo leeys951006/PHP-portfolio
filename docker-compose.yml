@@ -19,27 +19,26 @@ services:
             - ./public:/var/www/html/public
             - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
         ports:
-            - '8080:80'
+            - '80:80'
         networks:
             - ci-network
 
-    mysql:
-        image: mysql:latest
-        restart: always
-        environment:
-            MYSQL_ROOT_PASSWORD: 1028
-            MYSQL_DATABASE: portfolio
-            MYSQL_USER: root
-            MYSQL_PASSWORD: 1028
-        ports:
-            - '3306:3306'
-        volumes:
-            - mysql_data:/var/lib/mysql
-        networks:
-            - ci-network
+    # mysql:
+    #     image: mysql:latest
+    #     restart: always
+    #     environment:
+    #         MYSQL_ROOT_PASSWORD: 1028
+    #         MYSQL_DATABASE: portfolio
+    #         MYSQL_USER: root
+    #         MYSQL_PASSWORD: 1028
+    #     ports:
+    #         - '3306:3306'
+    #     volumes:
+    #         - mysql_data:/var/lib/mysql
+    #     networks:
+    #         - ci-network
 
 networks:
     ci-network:
-
-volumes:
-    mysql_data:
+# volumes:
+#     mysql_data:
