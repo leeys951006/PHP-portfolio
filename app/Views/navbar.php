@@ -20,7 +20,7 @@
                 <a class="nav-link text-dark fw-bold mx-5" href="/Project">Project</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link text-dark fw-bold mx-5" href="/SignUp">Sign Up</a>
+                <a class="nav-link text-dark fw-bold mx-5" href="/members/register">Sign Up</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link text-dark fw-bold mx-5" href="/Login">Login</a>
